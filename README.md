@@ -4,9 +4,9 @@ Hi there 👋, I’m **Thato Mathe**, a recent **BSc Information Technology grad
 
 I’m building my career at the intersection of **cybersecurity**, **policy compliance**, and **regulatory frameworks**, with a focus on **global best practices** and **data protection laws** like **POPIA, GDPR, HIPAA, and PCI DSS**.
 
-💻 **Portfolio Website**: [View Here](https://[your-portfolio-link.com](https://thatomathe.github.io/Thato_Cyber/))  
-📧 **Email**: thatomathe@outlook.com  
-🌐 **LinkedIn**: [linkedin.com/in/your-link](https://linkedin.com/in/[your-link](https://www.linkedin.com/in/thato-mathe/))
+💻 **Portfolio Website**: [View Here](https://thatomathe.github.io/Thato_Cyber/)  
+📧 **Email**: [thatomathe@outlook.com](mailto:thatomathe@outlook.com)  
+🌐 **LinkedIn**: [linkedin.com/in/thato-mathe](https://www.linkedin.com/in/thato-mathe/)
 
 ---
 
@@ -55,11 +55,12 @@ I’m building my career at the intersection of **cybersecurity**, **policy comp
 ---
 
 ## 📂 **Portfolio Highlights**
-1. **Personal Portfolio Website** - Fully responsive, showcasing my projects and skills.
-2. **Warehouse Management System (Academic Project)** - Built using PHP, MySQL, and XAMPP.
-3. **Cybersecurity Awareness Materials** - Documentation and resources to promote security culture.
+1. **Personal Portfolio Website** - Fully responsive, showcasing my projects and skills.  
+   🔗 [Visit My Portfolio](https://thatomathe.github.io/Thato_Cyber/)
 
-> 🔗 Full portfolio: [https://your-portfolio-link.com](https://[your-portfolio-link.com](https://thatomathe.github.io/Thato_Cyber/))
+2. **Warehouse Management System (Academic Project)** - Built using PHP, MySQL, and XAMPP.
+
+3. **Cybersecurity Awareness Materials** - Documentation and resources to promote security culture.
 
 ---
 
@@ -78,8 +79,9 @@ I’m open to:
 - 🏥 Healthcare IT Compliance
 - 📢 Speaking engagements or community contributions
 
-📧 Email: **thatomathe@outlook.com**  
-🔗 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/[your-link](https://www.linkedin.com/in/thato-mathe/))
+📧 Email: **[thatomathe@outlook.com](mailto:thatomathe@outlook.com)**  
+🌐 LinkedIn: **[linkedin.com/in/thato-mathe](https://www.linkedin.com/in/thato-mathe/)**  
+💻 Portfolio: **[thatomathe.github.io/Thato_Cyber](https://thatomathe.github.io/Thato_Cyber/)**
 
 ---
 
