@@ -1,4 +1,4 @@
-# 🌍 Thato Mathe — Cybersecurity Enthusiast | Aspiring GRC Analyst
+# 🌍 Thato Mathe - Cybersecurity Enthusiast | Aspiring GRC Analyst
 
 Hi there 👋, I’m **Thato Mathe**, a recent **BSc Information Technology graduate** with a strong interest in **Governance, Risk & Compliance (GRC)**, **Cybersecurity**, and **Technology in Healthcare & Banking**.
 
@@ -6,7 +6,7 @@ I’m building my career at the intersection of **cybersecurity**, **policy comp
 
 💻 **Portfolio Website**: [View Here](https://[your-portfolio-link.com](https://thatomathe.github.io/Thato_Cyber/))  
 📧 **Email**: thatomathe@outlook.com  
-🌐 **LinkedIn**: (https://www.linkedin.com/in/thato-mathe/)
+🌐 **LinkedIn**: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
 
 ---
 
@@ -55,11 +55,11 @@ I’m building my career at the intersection of **cybersecurity**, **policy comp
 ---
 
 ## 📂 **Portfolio Highlights**
-1. **Personal Portfolio Website** — Fully responsive, showcasing my projects and skills.
-2. **Warehouse Management System (Academic Project)** — Built using PHP, MySQL, and XAMPP.
-3. **Cybersecurity Awareness Materials** — Documentation and resources to promote security culture.
+1. **Personal Portfolio Website** - Fully responsive, showcasing my projects and skills.
+2. **Warehouse Management System (Academic Project)** - Built using PHP, MySQL, and XAMPP.
+3. **Cybersecurity Awareness Materials** - Documentation and resources to promote security culture.
 
-> 🔗 Full portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+> 🔗 Full portfolio: [https://your-portfolio-link.com](https://[your-portfolio-link.com](https://thatomathe.github.io/Thato_Cyber/))
 
 ---
 
@@ -79,7 +79,7 @@ I’m open to:
 - 📢 Speaking engagements or community contributions
 
 📧 Email: **thatomathe@outlook.com**  
-🔗 LinkedIn: (https://www.linkedin.com/in/thato-mathe/)
+🔗 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/[your-link](https://www.linkedin.com/in/thato-mathe/))
 
 ---
 
