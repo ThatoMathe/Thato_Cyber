@@ -6,7 +6,7 @@ I’m building my career at the intersection of **cybersecurity**, **policy comp
 
 💻 **Portfolio Website**: [View Here](https://[your-portfolio-link.com](https://thatomathe.github.io/Thato_Cyber/))  
 📧 **Email**: thatomathe@outlook.com  
-🌐 **LinkedIn**: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+🌐 **LinkedIn**: [linkedin.com/in/your-link](https://linkedin.com/in/[your-link](https://www.linkedin.com/in/thato-mathe/))
 
 ---
 
