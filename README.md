@@ -4,7 +4,7 @@ Hi there 👋, I’m **Thato Mathe**, a recent **BSc Information Technology grad
 
 I’m building my career at the intersection of **cybersecurity**, **policy compliance**, and **regulatory frameworks**, with a focus on **global best practices** and **data protection laws** like **POPIA, GDPR, HIPAA, and PCI DSS**.
 
-💻 **Portfolio Website**: [View Here](https://your-portfolio-link.com)  
+💻 **Portfolio Website**: [View Here](https://[your-portfolio-link.com](https://thatomathe.github.io/Thato_Cyber/))  
 📧 **Email**: thatomathe@outlook.com  
 🌐 **LinkedIn**: (https://www.linkedin.com/in/thato-mathe/)
 
