@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Thato Mathe Portfolio 2025</title>
+        <!-- Google Font: Poppins -->
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+        <!-- Boxicons -->
+        <link href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css" rel="stylesheet">
+        <!-- Font Awesome -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+       <!-- Swiper CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+        <!-- Swiper JS -->
+        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <!-- Link to CSS -->
+        <link rel="stylesheet" href="styles.css?v=2">
+    </head>
+<body>
+   
+
+    <!-- Header -->
+    <header class="header">
+        <a href="#home" class="logo">Thato <span class="name">Mathe</span></a>
+        <i class='bx bx-menu' id="menu-icon"></i>
+        <nav class="navbar">
+            <a href="#home">Home</a>
+            <a href="#tech-stack">Tech Stack</a>
+            <a href="#services">Services</a>
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#certificates">Certificates</a>
+        </nav>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/thato-mathe/" target="_blank" class="social-icon">
+                <i class='bx bxl-linkedin'></i>
+            </a>
+            <a href="https://github.com/ThatoMathe" target="_blank" class="social-icon">
+                <i class='bx bxl-github'></i>
+            </a>
+    </header>
+
+<!-- Home Section -->
+<section class="home" id="home">
+    <video autoplay muted loop playsinline class="bg-video">
+        <source src="videos/video2.mp4" type="video/mp4">
+    </video>
+
+    <div class="overlay">
+        <h1>
+    Oh, hey there! I'm 
+    <span class="gradient-name">Thato</span> 
+    <span class="country-tag">
+        ZA 
+        <img src="images/SA-flag.png" alt="South Africa Flag" class="flag">
+    </span> 👩🏽‍💻
+    <div id="local-time"></div>
+</h1>
+        <!-- Rotating job titles -->
+        <h3 class="flashing-text">
+            <span>GRC Analyst</span>
+            <span>Cybersecurity Analyst</span>
+            <span>Security Compliance Specialist</span>
+            <span>Risk & Governance Associate</span>
+            <span>IT Security Auditor</span>
+        </h3>
+
+        <p>
+            Bachelor of Science in IT graduate.<br>
+            Cloud & cybersecurity enthusiast.<br>
+            Welcome to my portfolio!
+        </p>
+
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/thato-mathe/" target="_blank" class="social-icon">
+                <i class='bx bxl-linkedin'></i>
+            </a>
+            <a href="https://github.com/ThatoMathe" target="_blank" class="social-icon">
+                <i class='bx bxl-github'></i>
+            </a>
+        </div>
+
+        <div class="btn-group">
+            <a href="#contact" class="btn">Contact Me</a>
+        </div>
+    </div>
+</section>
+
+    <!-- Tech Stack Section -->
+<section class="tech-stack" id="tech-stack">
+    <h2 class="heading">Tech Stack</h2>
+    <div class="slider" reverse="true" style="
+        --width: 100px;
+        --height: 100px;
+        --quantity: 11;
+    ">
+        <div class="list">
+            <div class="item" style="--position: 1">
+                <i class="fa-brands fa-html5" title="HTML5"></i>
+            </div>
+            <div class="item" style="--position: 2">
+                <i class="fa-brands fa-css3-alt" title="CSS3"></i>
+            </div>
+            <div class="item" style="--position: 3">
+                <i class="fa-brands fa-js"  title="JavaScript"></i> <!-- JavaScript Icon -->
+            </div>
+            <div class="item" style="--position: 4">
+                <i class="fa-brands fa-java"  title="Java"></i> <!-- Java Icon -->
+            </div>
+            <div class="item" style="--position: 5">
+                <i class="fa-brands fa-python" title="Python"></i> <!-- Python Icon -->
+            </div>
+            <div class="item" style="--position: 6">
+                <i class="fa-brands fa-react" title="Raect"></i> <!-- React Icon -->
+            </div>
+            <div class="item" style="--position: 7">
+                <i class="fa-brands fa-bootstrap" title="Bootstrap"></i> <!-- Bootstrap Icon -->
+            </div>
+            <div class="item" style="--position: 8">
+                <i class="fa-brands fa-git" title="Git"></i> <!-- Git Icon -->
+            </div>
+            <div class="item" style="--position: 9">
+                <i class="fa-brands fa-node-js" title="Node.js"></i> <!-- Node.js Icon -->
+            </div>
+            <div class="item" style="--position: 10">
+                <i class="fa-brands fa-wordpress" title="WordPress"></i> <!-- WordPress Icon -->
+            </div>
+            <div class="item" style="--position: 11">
+                <i class="fa-brands fa-github" title="GitHub"></i> <!-- GitHub -->
+            </div>
+        </div>
+    </div>
+    <div class="slider-controls">
+        <button id="pause-slider">Pause</button>
+        <button id="play-slider">Play</button>
+    </div>
+</section>
+
+    <!-- Services Section -->
+    <section class="services" id="services">
+        <h2 class="heading">Services</h2>
+        <div class="services-container">
+           <div class="service-box">
+<div class="service-info">
+    <i class='bx bx-shield-quarter'></i>
+    <h4>Cybersecurity & Compliance</h4>
+    <p>
+        Helping organisations secure their systems, protect sensitive data, and meet compliance standards such as 
+        <strong>POPIA</strong>, <strong>HIPAA</strong>, and <strong>GDPR</strong>.
+        Services include risk assessments, compliance gap analysis, security awareness training, and incident response planning.
+    </p>
+</div>
+           </div>
+            <div class="service-box">
+<div class="service-info">
+    <i class='bx bx-file-find'></i>
+    <h4>GRC (Governance, Risk & Compliance)</h4>
+    <p>
+        Aligning business operations with industry regulations and best practices to reduce risk and improve governance. 
+        Includes policy creation, risk registers & reporting, vendor risk management, and compliance frameworks for banking & healthcare.
+    </p>
+</div>
+            </div>
+            <div class="service-box">
+                <div class="service-info">
+        <i class='bx bx-code-alt'></i>
+    <h4>Secure Web Development</h4>
+    <p>
+        I design and develop secure, responsive, and high-performing websites and web applications. 
+        From crafting engaging front-end interfaces to building powerful back-end systems, 
+        I follow secure coding practices, conduct vulnerability checks, and implement HTTPS & encryption.
+    </p>
+                </div>
+            </div>
+            <div class="service-box">
+                <div class="service-info">
+    <i class='bx bx-layout'></i>
+    <h4>UI/UX Design</h4>
+    <p>
+        Crafting intuitive, user-friendly experiences without compromising security. 
+        Specialising in UX for high-security platforms such as banking and healthcare, 
+        with expertise in wireframing, accessibility compliance, and design systems.
+    </p>
+            </div>
+        </div>
+    </section>
+
+<section class="about" id="about">
+    <!-- Matrix Background -->
+    <canvas id="matrix-canvas"></canvas>
+
+    <!-- Image -->
+    <div class="about-img">
+        <img src="images/pro pic2.png" alt="About Me">
+    </div>
+
+    <!-- Content -->
+    <div class="about-content">
+        <h2>About <span>Me</span></h2>
+        <p>
+            I’m a Bachelor of Science in Information Technology graduate with a strong focus on
+            <strong>Cybersecurity, Secure Web Development</strong>, and <strong>GRC Compliance</strong>.
+            I combine technical expertise with creativity to design safe, engaging, and
+            future-proof systems.
+        </p>
+        <p>
+            My journey blends <strong>problem-solving</strong> with <strong>human-centered design</strong>, 
+            and building technology that protects people while keeping it user-friendly.
+            Whether I’m securing a healthcare platform or designing a modern UI, I approach every project
+            with determination, innovation, and a touch of anime flair.
+        </p>
+    </div>
+</section>
+
+
+<!-- Projects Section -->
+<section class="projects" id="projects">
+  <h2 class="heading">ClinicConnect Projects</h2>
+  <div class="spiderweb-container">
+
+    <!-- Main Website Card -->
+    <div class="project-card main-card">
+      <div class="card-inner">
+        <div class="card-front">
+          <h3>ClinicConnect Website</h3>
+        </div>
+        <div class="card-back">
+          <p>Healthcare appointment booking, donations, and clinic information platform.</p>
+          <a href="https://clinicconnect-demo.com" target="_blank" class="btn">Visit Website</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Safe Login -->
+    <div class="project-card">
+      <div class="card-inner">
+        <div class="card-front">
+          <h3>Safe Login</h3>
+        </div>
+        <div class="card-back">
+          <p>Secure login with encryption and 2FA for patient data.</p>
+          <a href="#" class="btn">View Project</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- GRC Compliance -->
+    <div class="project-card">
+      <div class="card-inner">
+        <div class="card-front">
+          <h3>GRC Compliance</h3>
+        </div>
+        <div class="card-back">
+          <p>POPIA & HIPAA policy framework for ClinicConnect.</p>
+          <a href="#" class="btn">View Docs</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Fake Donation -->
+    <div class="project-card">
+      <div class="card-inner">
+        <div class="card-front">
+          <h3>Secure Donation</h3>
+        </div>
+        <div class="card-back">
+          <p>Fake payment gateway for testing safe transactions.</p>
+          <a href="#" class="btn">Try Demo</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Cybersecurity -->
+    <div class="project-card">
+      <div class="card-inner">
+        <div class="card-front">
+          <h3>Cybersecurity Monitoring</h3>
+        </div>
+        <div class="card-back">
+          <p>Simulated threat detection for clinic infrastructure.</p>
+          <a href="#" class="btn">View Project</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Data Privacy -->
+    <div class="project-card">
+      <div class="card-inner">
+        <div class="card-front">
+          <h3>Data Privacy</h3>
+        </div>
+        <div class="card-back">
+          <p>How ClinicConnect stores & protects patient information.</p>
+          <a href="#" class="btn">Learn More</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- Certificates Section -->
+<section class="certificates" id="certificates">
+    <h2 class="heading">Certificates & Badges</h2>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <!-- Google Cybersecurity Certificate -->
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/8. Google Cybersecurity.jpeg" alt="Google Cybersecurity Certificate">
+                    <h3>Google Cybersecurity Certificate</h3>
+                    <p>Completed the Google Cybersecurity Professional Certificate program.</p>
+                    <a href="https://coursera.org/share/c7f0a3e13dfbf3ef0a5bdd069b4957fd" target="_blank" class="btn">View Certificate</a>
+                </div>
+            </div>
+
+            <!-- SheCodes Certificate -->
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/1. SheCodes Basic.png" alt="SheCodes Certificate">
+                    <h3>SheCodes Basic Certificate</h3>
+                    <p>Completed SheCodes workshops in HTML, CSS, JavaScript, and React.</p>
+                    <a href="http://shecodes.io/certificates/723c8b7ff3883c538ac0aed65ee87575" target="_blank" class="btn">View Certificate</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide"> 
+    <div class="certificate-card">
+        <img src="images/certificates/FNB Certificate.png" alt="FNB App Academy Certificate">
+        <h3>FNB App Academy Certificate</h3>
+        <p>Completed FNB App Academy training program focusing on digital banking, fintech innovation, and app development skills.</p>
+        <a href="https://your-fnb-certificate-link-here" target="_blank" class="btn">View Certificate</a>
+    </div>
+</div>
+
+
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/3. SheCodes plus.png" alt="SheCodes Certificate">
+                    <h3>SheCodes Plus Certificate</h3>
+                    <p>Completed SheCodes workshops in HTML, CSS, JavaScript, and React.</p>
+                    <a href="http://shecodes.io/certificates/359659adc5ea59a8dc996486f893a1a8" target="_blank" class="btn">View Certificate</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/4. SheCodes Responsive.png" alt="SheCodes Certificate">
+                    <h3>SheCodes Responsive Certificate</h3>
+                    <p>Completed SheCodes workshops in HTML, CSS, JavaScript, and React.</p>
+                    <a href="http://shecodes.io/certificates/d0708ca0363936a3b4d67fd9ceb6c5e3" target="_blank" class="btn">View Certificate</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/5. SheCodes React.png" alt="Certificate">
+                    <h3>SheCodes React Certificate</h3>
+                    <p>Completed SheCodes workshops in HTML, CSS, JavaScript, and React.</p>
+                    <a href="http://shecodes.io/certificates/030e32704aac18cdc130386cca05fb04" target="_blank" class="btn">View Certificate</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/6. Software testing.jpeg" alt="Software Testing Certificate">
+                    <h3>Introduction to Software Testing</h3>
+                    <p>Completed a Introduction to Software Testing , University of Minnesota</p>
+                    <a href="https://coursera.org/share/a729c65c762e74fa4708ad1a85899d79" target="_blank" class="btn">View Certificate</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/9. IBM Intro Cloud.jpeg" alt="Cloud Computing Certificate">
+                    <h3>IBM Cloud Computing</h3>
+                    <p>Completed a Introduction to Cloud Computing with IBM</p>
+                    <a href="https://coursera.org/share/041efb61ce66828e85cb12bd994d710a" target="_blank" class="btn">View Certificate</a>
+                </div>
+            </div>
+
+            <!-- IBM Badge -->
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/10. IBM Cyber Fundamentals.png" alt="IBM Badge">
+                    <h3>IBM Cybersecurity Fundamentals</h3>
+                    <p>Earned the IBM Cybersecurity Fundamentals badge</p>
+                    <a href="https://www.credly.com/badges/330d63f4-392a-4dbf-a1f2-e6293be9fd83/linked_in_profile" target="_blank" class="btn">View Badge</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="certificate-card">
+                    <img src="images/certificates/7. CISCO CYBER.png" alt="CISCO Badge">
+                    <h3>CISCO Cybersecurity badge</h3>
+                    <p>Earned the CISCO Cybersecurity badge</p>
+                    <a href="https://www.credly.com/badges/11dd3d10-8b44-4d7a-ad29-766e9a8bf549/public_url" target="_blank" class="btn">View Badge</a>
+                </div>
+            </div>
+        </div>
+        <!-- Add navigation buttons -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+</section>
+
+/*   <!-- Contact and Quiz Section -->
+  <section class="contact-quiz-section">
+    <!-- Contact Card -->
+    <div class="card contact-card">
+        <h2>📬 Contact Me</h2>
+        <p class="contact-email">
+            <a href="mailto:thatomathe@outlook.com">thatomathe@outlook.com</a>
+        </p>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" class="social-link linkedin">
+                <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="https://github.com/your-github-username" target="_blank" class="social-link github">
+                <i class="fab fa-github"></i>
+            </a>
+        </div>
+    </div>
+
+    <!-- Quiz Card -->
+    <div class="card quiz-card">
+        <h2>🔐 Quick Cybersecurity Quiz</h2>
+        <form id="quizForm">
+            <p>1. What does HTTPS mean?</p>
+            <label><input type="radio" name="q1" value="1"> Secure communication over the web</label><br>
+            <label><input type="radio" name="q1" value="0"> High Tech Protocol Service</label>
+
+            <p>2. What is phishing?</p>
+            <label><input type="radio" name="q2" value="1"> Tricking someone to get sensitive info</label><br>
+            <label><input type="radio" name="q2" value="0"> Fishing with technology</label>
+
+            <p>3. Which is a strong password?</p>
+            <label><input type="radio" name="q3" value="0"> 123456</label><br>
+            <label><input type="radio" name="q3" value="1"> G$!t8!p9@</label>
+
+            <p>4. What does 2FA mean?</p>
+            <label><input type="radio" name="q4" value="1"> Two-Factor Authentication</label><br>
+            <label><input type="radio" name="q4" value="0"> Two-Faced Algorithm</label>
+
+            <p>5. What is a firewall?</p>
+            <label><input type="radio" name="q5" value="1"> A network security system</label><br>
+            <label><input type="radio" name="q5" value="0"> A physical wall in a data center</label>
+
+            <button type="button" id="submitQuiz">Submit Quiz</button>
+        </form>
+        <div id="quizResult"></div>
+    </div>
+</section>
+
+    <!-- Footer -->
+<!-- Footer -->
+<footer class="footer">
+    <ul class="list">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#tech-stack">Tech Stack</a></li>
+        <li><a href="#certificates">Certificates</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+
+    <!-- Futuristic Quote -->
+    <div id="quote" class="futuristic-quote"></div>
+
+    <!-- Live Clock -->
+    <div id="clock" class="footer-clock"></div>
+
+    <!-- Glitch Goodbye Message -->
+    <div class="glitch" data-text="See you in the future...">See you in the future...</div>
+
+    <p class="copyright">© 2025 Thato Mathe. All rights reserved.</p>
+</footer>
+
+
+         <!-- Back-to-Top Button -->
+    <button id="back-to-top" class="back-to-top">
+        <i class='bx bx-chevron-up'></i> <!-- Use any icon you like -->
+    </button>
+
+    <!-- Link to JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
